@@ -121,5 +121,5 @@ if __name__ == "__main__":
 
 
     # Example usage
-    answer = solve_word(prompt)
+    answer = solve_word("ghost")
     print("Ollama says:", answer)
